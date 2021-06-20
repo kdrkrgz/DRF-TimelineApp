@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "c:\\Users\\karag\\Desktop\\Projects\\Django_Projects\\timelinevenv\\Scripts\\python.exe",
+		"python.autoComplete.extraPaths": [
+			"C:\\Users\\karag\\Desktop\\Projects\\Django_Projects\timelinevenv\\Lib\\site-packages",
+		],
+		"python.formatting.provider": "black",
+		"python.analysis.extraPaths": [
+			"C:\\Users\\karag\\Desktop\\Projects\\Django_Projects\\timelinevenv\\Lib\\site-packages"
+		],
+	}
+}
